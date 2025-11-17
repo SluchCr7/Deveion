@@ -9,3 +9,13 @@ export const socialIcons = [
     { icon: <FaLinkedin />, link: "/" },
     { icon: <FaXTwitter />, link: "/" },
 ]
+
+
+export const navLinks = [
+    { name: "Home", link: "/" },
+    { name: "Features", link: "#features" },
+    { name: "Services", link: "#services" },
+    { name: "Reviews", link: "#reviews" },
+    { name: "Team", link: "#team" },
+    { name: "Pricing", link: "#pricing" },
+]
